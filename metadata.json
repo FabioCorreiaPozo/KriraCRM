@@ -1,0 +1,8 @@
+{
+  "name": "OmniAI CRM - Meta Edition",
+  "description": "A high-performance SaaS CRM integrated with Meta Cloud APIs, featuring humanized AI automation, intelligent Kanban management, and omnichannel support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
